@@ -10,5 +10,5 @@ SY_ADMIN = By Sylver Reworked à 90% de Xed#1188
 > Report
 > etc...
 
-Donwload : https://github.com/SOON
+Donwload : https://github.com/sylvermatsy/sy_admin/
 Preview : https://streamable.com/Soon...
